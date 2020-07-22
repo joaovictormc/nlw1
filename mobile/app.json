@@ -17,10 +17,12 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.maciel.ecoleta",
       "supportsTablet": true
     },
     "android": {
-      "package":  "com.maciel.ecoleta"
+      "package":  "com.maciel.ecoleta",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
